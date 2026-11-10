@@ -1,5 +1,4 @@
-@'
-.venv/
+﻿.venv/
 __pycache__/
 *.py[cod]
 *.pyc
@@ -12,4 +11,3 @@ models/
 .pytest_cache/
 .vscode/
 .ipynb_checkpoints/
-'@ | Set-Content -Encoding utf8 .gitignore
