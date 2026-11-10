@@ -1,0 +1,15 @@
+@'
+.venv/
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+models/
+.pytest_cache/
+.vscode/
+.ipynb_checkpoints/
+'@ | Set-Content -Encoding utf8 .gitignore

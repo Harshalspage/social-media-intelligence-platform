@@ -1,0 +1,13 @@
+@'
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+langdetect
+python-dotenv
+requests
+PyYAML
+pytest
+'@ | Set-Content -Encoding utf8 requirements.txt

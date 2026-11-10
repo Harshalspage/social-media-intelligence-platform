@@ -1,0 +1,43 @@
+
+[
+  {
+    "post_id": "reddit_001",
+    "platform": "reddit",
+    "text": "Public transport is improving in our city. The new metro service is convenient!",
+    "created_at": "2026-10-28T10:30:00Z",
+    "author": "user_a",
+    "community": "city_transport"
+  },
+  {
+    "post_id": "reddit_002",
+    "platform": "reddit",
+    "text": "The metro is always delayed. Very frustrating experience.",
+    "created_at": "2026-10-28T11:00:00Z",
+    "author": "user_b",
+    "community": "city_transport"
+  },
+  {
+    "post_id": "youtube_001",
+    "platform": "youtube",
+    "text": "Great video explaining renewable energy and solar power!",
+    "created_at": "2026-10-28T12:00:00Z",
+    "author": "channel_a",
+    "community": "renewable_energy"
+  },
+  {
+    "post_id": "reddit_003",
+    "platform": "reddit",
+    "text": "I am concerned about the accuracy of this viral claim. Where is the evidence?",
+    "created_at": "2026-10-28T13:00:00Z",
+    "author": "user_c",
+    "community": "online_news"
+  },
+  {
+    "post_id": "youtube_002",
+    "platform": "youtube",
+    "text": "Amazing explanation! I learned something new today 😊",
+    "created_at": "2026-10-28T14:00:00Z",
+    "author": "channel_b",
+    "community": "education"
+  }
+]
